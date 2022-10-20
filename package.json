@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "html-to-md": "^0.8.0",
+    "sanitize-html": "^2.7.2",
+    "wikity": "^1.3.0"
+  },
+  "name": "shesa10butshewiki",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
